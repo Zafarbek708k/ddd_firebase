@@ -1,0 +1,27 @@
+{
+  "@@locale": "ru",
+
+  "helloWorld": "Привет Мир!",
+   "home": "Главная",
+   "homeDesc": "Главная",
+   "search": "Поиск",
+   "searchDesc": "Поиск",
+   "chat": "Чат",
+   "chatDesc": "Описание чата",
+   "profile": "Профиль",
+   "profileDesc": "Описание профиля",
+   "favorite": "Избранное",
+   "favoriteDesc": "Описание избранного",
+   "switchTheme": "Переключить тему",
+   "switchThemeDesc": "Переключить тему",
+   "stories": "Истории",
+   "storiesDesc": "Истории",
+   "goAuth": "Перейти к аутентификации",
+   "forgotPassword": "Забыли пароль?",
+   "donTHaveAnAccount": "Нет учетной записи? Зарегистрируйтесь.",
+   "haveAnAccount": "Есть учетная запись? Войти.",
+   "signUp": "Регистрация",
+   "signIn": "Войти",
+   "sendCode": "Отправить код",
+   "check": "Проверить код"
+}

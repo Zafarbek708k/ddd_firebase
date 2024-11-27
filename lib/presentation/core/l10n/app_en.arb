@@ -1,0 +1,28 @@
+{
+  "@@locale": "en",
+
+  "helloWorld": "Hello World!",
+   "home": "Home",
+   "homeDesc": "Home",
+   "search": "Search",
+   "searchDesc": "Search",
+   "chat": "Chat",
+   "chatDesc": "Chat Description",
+   "profile": "Profile",
+   "profileDesc": "Profile Description",
+   "favorite": "Favorite",
+   "favoriteDesc": "Favorite Description",
+   "switchTheme": "Switch Theme",
+   "switchThemeDesc": "Switch Theme",
+   "stories": "Stories",
+   "storiesDesc": "Stories",
+   "goAuth": "Go Authentication",
+   "forgotPassword": "Forgot Password?",
+   "donTHaveAnAccount": "Don't have an Account? Sign Up.",
+   "haveAnAccount": "Have an Account? Sign In.",
+   "signUp": "Sign Up",
+   "signIn": "Sign In",
+   "sendCode": "Send Code",
+   "check": "Check Code"
+
+}
